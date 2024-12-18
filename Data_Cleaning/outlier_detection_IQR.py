@@ -41,3 +41,5 @@ plt.xlabel("Height")
 # Show the plots
 plt.show()
 
+#output result on this link 
+# https://github.com/Saba633/Cleaning-Visualization/blob/96b51a8fcedb6813a687c933dd18033cb3078b6e/Data_Cleaning/images/outlier_detection_IQR.png
